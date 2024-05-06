@@ -58,5 +58,8 @@
 			</plugin>
 
 		</plugins>
+		<defaultGoal>install</defaultGoal>
+		<!-- Source directory configuration -->
+		<sourceDirectory>src</sourceDirectory>
 	</build>
 </project>
