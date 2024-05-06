@@ -24,8 +24,6 @@ jobs:
       with:
         distribution: 'temurin'
         java-version: '11'
-    - name: Clean tests
-      run: mvn clean
     - name: Build & Install
       run: mvn -B install -D skipTests --no-transfer-progress
     - name: Install Playwright
