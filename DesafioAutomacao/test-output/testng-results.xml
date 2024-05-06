@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-05T20:54:17 BRT" name="Default suite" finished-at="2024-05-05T20:54:29 BRT" duration-ms="11296">
+    <groups>
+    </groups>
+    <test started-at="2024-05-05T20:54:17 BRT" name="Default test" finished-at="2024-05-05T20:54:29 BRT" duration-ms="11296">
+      <class name="com.qa.blogdoagi.tests.BlogDoAgiTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@476b0ae6]" started-at="2024-05-05T20:54:17 BRT" name="setUp" finished-at="2024-05-05T20:54:27 BRT" duration-ms="10140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validarPesquisa()[pri:1, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@476b0ae6]" started-at="2024-05-05T20:54:27 BRT" name="validarPesquisa" finished-at="2024-05-05T20:54:29 BRT" duration-ms="1093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validarPesquisa -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@476b0ae6]" started-at="2024-05-05T20:54:29 BRT" name="tearDown" finished-at="2024-05-05T20:54:29 BRT" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.blogdoagi.tests.BlogDoAgiTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
