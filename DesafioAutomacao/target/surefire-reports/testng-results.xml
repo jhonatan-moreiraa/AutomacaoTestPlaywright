@@ -2,68 +2,68 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-06T08:03:10 BRT" name="Surefire suite" finished-at="2024-05-06T08:03:54 BRT" duration-ms="43565">
+  <suite started-at="2024-05-06T10:04:05 BRT" name="Surefire suite" finished-at="2024-05-06T10:05:09 BRT" duration-ms="64649">
     <groups>
     </groups>
-    <test started-at="2024-05-06T08:03:10 BRT" name="Surefire test" finished-at="2024-05-06T08:03:54 BRT" duration-ms="43565">
+    <test started-at="2024-05-06T10:04:05 BRT" name="Surefire test" finished-at="2024-05-06T10:05:09 BRT" duration-ms="64649">
       <class name="com.qa.blogdoagi.tests.BlogDoAgiTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@35d08e6c]" started-at="2024-05-06T08:03:10 BRT" name="setUp" finished-at="2024-05-06T08:03:22 BRT" duration-ms="11813" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@35d08e6c]" started-at="2024-05-06T10:04:05 BRT" name="setUp" finished-at="2024-05-06T10:04:44 BRT" duration-ms="39112" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="validarPesquisa()[pri:1, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@35d08e6c]" started-at="2024-05-06T08:03:22 BRT" name="validarPesquisa" finished-at="2024-05-06T08:03:30 BRT" duration-ms="7677" status="PASS">
+        <test-method signature="validarPesquisa()[pri:1, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@35d08e6c]" started-at="2024-05-06T10:04:44 BRT" name="validarPesquisa" finished-at="2024-05-06T10:04:45 BRT" duration-ms="976" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validarPesquisa -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@35d08e6c]" started-at="2024-05-06T08:03:30 BRT" name="tearDown" finished-at="2024-05-06T08:03:30 BRT" duration-ms="136" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@35d08e6c]" started-at="2024-05-06T10:04:45 BRT" name="tearDown" finished-at="2024-05-06T10:04:45 BRT" duration-ms="348" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@35d08e6c]" started-at="2024-05-06T08:03:30 BRT" name="setUp" finished-at="2024-05-06T08:03:32 BRT" duration-ms="1833" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@35d08e6c]" started-at="2024-05-06T10:04:45 BRT" name="setUp" finished-at="2024-05-06T10:04:47 BRT" duration-ms="2235" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="validarSubMenu()[pri:2, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@35d08e6c]" started-at="2024-05-06T08:03:32 BRT" name="validarSubMenu" finished-at="2024-05-06T08:03:33 BRT" duration-ms="1692" status="PASS">
+        <test-method signature="validarSubMenu()[pri:2, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@35d08e6c]" started-at="2024-05-06T10:04:47 BRT" name="validarSubMenu" finished-at="2024-05-06T10:04:49 BRT" duration-ms="1653" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validarSubMenu -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@35d08e6c]" started-at="2024-05-06T08:03:33 BRT" name="tearDown" finished-at="2024-05-06T08:03:34 BRT" duration-ms="117" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@35d08e6c]" started-at="2024-05-06T10:04:49 BRT" name="tearDown" finished-at="2024-05-06T10:04:49 BRT" duration-ms="125" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@35d08e6c]" started-at="2024-05-06T08:03:34 BRT" name="setUp" finished-at="2024-05-06T08:03:35 BRT" duration-ms="1705" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@35d08e6c]" started-at="2024-05-06T10:04:49 BRT" name="setUp" finished-at="2024-05-06T10:04:51 BRT" duration-ms="1815" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="validarInscricaoEmail()[pri:3, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@35d08e6c]" started-at="2024-05-06T08:03:35 BRT" name="validarInscricaoEmail" finished-at="2024-05-06T08:03:41 BRT" duration-ms="5992" status="PASS">
+        <test-method signature="validarInscricaoEmail()[pri:3, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@35d08e6c]" started-at="2024-05-06T10:04:51 BRT" name="validarInscricaoEmail" finished-at="2024-05-06T10:04:57 BRT" duration-ms="5933" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validarInscricaoEmail -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@35d08e6c]" started-at="2024-05-06T08:03:41 BRT" name="tearDown" finished-at="2024-05-06T08:03:41 BRT" duration-ms="109" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@35d08e6c]" started-at="2024-05-06T10:04:57 BRT" name="tearDown" finished-at="2024-05-06T10:04:57 BRT" duration-ms="120" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@35d08e6c]" started-at="2024-05-06T08:03:41 BRT" name="setUp" finished-at="2024-05-06T08:03:43 BRT" duration-ms="1533" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@35d08e6c]" started-at="2024-05-06T10:04:57 BRT" name="setUp" finished-at="2024-05-06T10:04:59 BRT" duration-ms="1862" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="validarPaginacao()[pri:4, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@35d08e6c]" started-at="2024-05-06T08:03:43 BRT" name="validarPaginacao" finished-at="2024-05-06T08:03:49 BRT" duration-ms="6267" status="PASS">
+        <test-method signature="validarPaginacao()[pri:4, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@35d08e6c]" started-at="2024-05-06T10:04:59 BRT" name="validarPaginacao" finished-at="2024-05-06T10:05:05 BRT" duration-ms="6253" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validarPaginacao -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@35d08e6c]" started-at="2024-05-06T08:03:49 BRT" name="tearDown" finished-at="2024-05-06T08:03:49 BRT" duration-ms="250" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@35d08e6c]" started-at="2024-05-06T10:05:05 BRT" name="tearDown" finished-at="2024-05-06T10:05:05 BRT" duration-ms="228" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@35d08e6c]" started-at="2024-05-06T08:03:49 BRT" name="setUp" finished-at="2024-05-06T08:03:51 BRT" duration-ms="1909" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@35d08e6c]" started-at="2024-05-06T10:05:05 BRT" name="setUp" finished-at="2024-05-06T10:05:08 BRT" duration-ms="2052" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="validarLinkDownloadAPP()[pri:5, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@35d08e6c]" started-at="2024-05-06T08:03:51 BRT" name="validarLinkDownloadAPP" finished-at="2024-05-06T08:03:54 BRT" duration-ms="2385" status="PASS">
+        <test-method signature="validarLinkDownloadAPP()[pri:5, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@35d08e6c]" started-at="2024-05-06T10:05:08 BRT" name="validarLinkDownloadAPP" finished-at="2024-05-06T10:05:09 BRT" duration-ms="1803" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validarLinkDownloadAPP -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@35d08e6c]" started-at="2024-05-06T08:03:54 BRT" name="tearDown" finished-at="2024-05-06T08:03:54 BRT" duration-ms="100" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@35d08e6c]" started-at="2024-05-06T10:05:09 BRT" name="tearDown" finished-at="2024-05-06T10:05:09 BRT" duration-ms="90" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
