@@ -5,8 +5,8 @@
     <classes>
       <class name="com.qa.blogdoagi.tests.BlogDoAgiTest">
         <methods>
-          <include name="validarPesquisa"/>
           <include name="tearDown"/>
+          <include name="validarSubMenu"/>
           <include name="setUp"/>
         </methods>
       </class> <!-- com.qa.blogdoagi.tests.BlogDoAgiTest -->
