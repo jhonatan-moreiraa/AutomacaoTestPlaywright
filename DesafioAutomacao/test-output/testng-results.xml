@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-06T10:05:36 BRT" name="Default suite" finished-at="2024-05-06T10:06:18 BRT" duration-ms="41917">
+  <suite started-at="2024-05-06T12:15:20 BRT" name="Default suite" finished-at="2024-05-06T12:15:51 BRT" duration-ms="30624">
     <groups>
     </groups>
-    <test started-at="2024-05-06T10:05:36 BRT" name="Default test" finished-at="2024-05-06T10:06:18 BRT" duration-ms="41917">
+    <test started-at="2024-05-06T12:15:20 BRT" name="Default test" finished-at="2024-05-06T12:15:51 BRT" duration-ms="30624">
       <class name="com.qa.blogdoagi.tests.BlogDoAgiTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@476b0ae6]" started-at="2024-05-06T10:05:36 BRT" name="setUp" finished-at="2024-05-06T10:05:52 BRT" duration-ms="16501" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@75390459]" started-at="2024-05-06T12:15:20 BRT" name="setUp" finished-at="2024-05-06T12:15:40 BRT" duration-ms="19719" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="validarPesquisa()[pri:1, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@476b0ae6]" started-at="2024-05-06T10:05:52 BRT" name="validarPesquisa" finished-at="2024-05-06T10:06:18 BRT" duration-ms="25262" status="PASS">
+        <test-method signature="validarSubMenu()[pri:2, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@75390459]" started-at="2024-05-06T12:15:40 BRT" name="validarSubMenu" finished-at="2024-05-06T12:15:51 BRT" duration-ms="10770" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- validarPesquisa -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@476b0ae6]" started-at="2024-05-06T10:06:18 BRT" name="tearDown" finished-at="2024-05-06T10:06:18 BRT" duration-ms="105" status="PASS">
+        </test-method> <!-- validarSubMenu -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.blogdoagi.tests.BlogDoAgiTest@75390459]" started-at="2024-05-06T12:15:51 BRT" name="tearDown" finished-at="2024-05-06T12:15:51 BRT" duration-ms="85" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
