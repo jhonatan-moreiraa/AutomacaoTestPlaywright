@@ -79,8 +79,7 @@ namespace PlaywrightTests.Pages
 
         public async Task ClicarBotaoEntendi()
         {
-            await _page.WaitForLoadStateAsync(LoadState.DOMContentLoaded);
-            //Thread.Sleep(4000);
+            await _page.WaitForLoadStateAsync(LoadState.DOMContentLoaded);            
             await botaoEntendi.ClickAsync();
         }
 
