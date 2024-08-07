@@ -51,8 +51,7 @@ namespace PlaywrightTests.Tests
         public async Task ValidarLinkDownloadAPP()
         {
             MainPage _mainpage = new MainPage(page);
-            await _mainpage.ValidarBotaoAppSotre();
+            await _mainpage.ValidarBotaoAppSotre();            
         }
-
     }
 }
