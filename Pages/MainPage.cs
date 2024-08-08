@@ -21,6 +21,8 @@ namespace PlaywrightTests.Pages
         private ILocator botaoInscrever;
         private ILocator botaoEntendi;
         private ILocator botaoPaginacao;
+
+        
         public MainPage(IPage page)
         {
             _page = page;
